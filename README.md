@@ -2,12 +2,12 @@
 
 commands:
 
-´r´ == restarts the animation with new random values
+`r` == restarts the animation with new random values
 
-'i' == shows insertions-sort
+`i` == shows insertions-sort
 
-'s' == shows selection-sort
+`s` == shows selection-sort
 
-'m' == shows merge-sort
+`m` == shows merge-sort
 
-'a' == shows all sorting algorithms 
+`a` == shows all sorting algorithms 
