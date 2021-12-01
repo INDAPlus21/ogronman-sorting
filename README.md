@@ -1,6 +1,6 @@
 # ogronman-sorting
 
-### How to run
+## How to run
 
 either:
 
