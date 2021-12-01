@@ -1,6 +1,6 @@
 # ogronman-sorting
 
-##### How to run
+### How to run
 
 either:
 
@@ -9,7 +9,7 @@ either:
 
 or...
 
-############# from terminal
+### from terminal
 
 1. from src-folder use `javac *.java`
 2. from src-folder use `java OgronmanSorting`
