@@ -19,7 +19,7 @@ Has to be from shell with access to window server or something
 for example:
 does not work from ubuntu on windows
 
-##### commands:
+## commands:
 
 `r` == restarts the animation with new random values, however you have to be gentle with the restarts or the program gets mad
 
