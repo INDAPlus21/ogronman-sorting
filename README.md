@@ -2,7 +2,7 @@
 
 commands:
 
-'r' == restarts the animation with new random values
+´r´ == restarts the animation with new random values
 
 'i' == shows insertions-sort
 
